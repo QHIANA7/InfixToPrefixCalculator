@@ -16,3 +16,6 @@
 ## 개발 환경
 * OS : Windows 8.1
 * IDE : Visul Studio 2015
+
+## 실행 화면
+![실행화면](./Images/run.png)
